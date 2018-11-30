@@ -14,7 +14,7 @@ public class ReverseStringScanner {
 		//now I need to reverse it
 		//to do that i need to split and save it in a String array
 		
-		String array [] = original.split(" ");   //here my sentence is splitted into  words
+		String array [] = original.split("");   //here my sentence is splitted into  words
 		String reversed = "";
 		
 		for(int i = array.length-1; i>=0; i--) {   //starting from the last word

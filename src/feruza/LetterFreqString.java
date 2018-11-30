@@ -4,7 +4,7 @@ public class LetterFreqString {
 
 	public static void main(String[] args) {
 
-		String str = "Feruzahon";
+		String str = "Feruzahonksdbfksbdvksvvsb";
 		int countLetter = 0;
 		String unique = "";
 
